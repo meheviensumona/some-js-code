@@ -10,3 +10,14 @@ function dateAndTime(){
 function dateAndTimee(){
     document.getElementById('h5').innerHTML =Date();
 }
+
+// change emoji 4th exm
+ function smile(){
+    document.getElementById('img').src ="image/smile.png";
+ }
+ function sad(){
+    document.getElementById('img').src ="image/sad.png";
+ }
+ function angry(){
+    document.getElementById('img').src ="image/angry.png";
+ }
