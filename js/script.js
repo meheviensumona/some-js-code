@@ -21,3 +21,8 @@ function dateAndTimee(){
  function angry(){
     document.getElementById('img').src ="image/angry.png";
  }
+//  5th exm start
+function readDocument(){
+    document.write('Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sunt, et blanditiis ad quas reiciendis eos ratione, fugit neque voluptates dolorum enim officiis optio ab qui obcaecati voluptatum libero iure!Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sunt, et blanditiis ad quas reiciendis eos ratione, fugit neque voluptates dolorum enim officiis optio ab qui obcaecati voluptatum libero iure!Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sunt, et blanditiis ad quas reiciendis eos ratione, fugit neque voluptates dolorum enim officiis optio ab qui obcaecati voluptatum libero iure!Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sunt, et blanditiis ad quas reiciendis eos ratione, fugit neque voluptates dolorum enim officiis optio ab qui obcaecati voluptatum libero iure!Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sunt, et blanditiis ad quas reiciendis eos ratione, fugit neque voluptates dolorum enim officiis optio ab qui obcaecati voluptatum libero iure!');
+}
+// end 5th example
